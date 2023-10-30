@@ -1,0 +1,14 @@
+h1 {
+    color: red;
+    background-color: lightgray;
+
+}
+p {
+    color: magenta;
+    background-color: lightblue;
+    text-align: center;
+    width: 300px;
+    height: 400px;
+    background-image: url(../img/logo.png);
+    background-size: 64px;
+}
